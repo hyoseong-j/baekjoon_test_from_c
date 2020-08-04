@@ -1,0 +1,2 @@
+C:\Users\1\source\repos\hyoseong-j\baekjoon_test_from_c\beakjoon_2750\Debug\beakjoon_2750.exe
+C:\Users\1\source\repos\hyoseong-j\baekjoon_test_from_c\beakjoon_2750\Debug\beakjoon_2750.pdb
